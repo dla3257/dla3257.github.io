@@ -33,7 +33,7 @@
   <br />
   <em>
     <a href="https://newhiwoong.github.io/categories/">
-      GOTO CATEGORY!
+      GOTO CATEGORY!11
     </a>
   </em>
 </p>
