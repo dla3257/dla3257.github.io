@@ -1,18 +1,18 @@
 title:            Rapid Home Page
 description:      "개인 스터디 공간"
 logo:             logo.png
-disqus_shortname: rapid
+disqus_shortname: dla3257
 disqus_url : dla232@hanmail.net
-disqus_id : rapid
+disqus_id : dla3257
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
-# or use the hint from https://rapid.github.io to keep this the same 
+# or use the hint from https://dla3257.github.io to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 
 remote_theme : hmfaysal/Notepad
 
-url                      : "https://rapid.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dla3257.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 # Owner/author information
