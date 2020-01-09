@@ -162,6 +162,11 @@ prose:
           element: "checkbox"
           label: "Comments"
           value: false
+      - name: "test"
+        field:
+          element: "checkbox"
+          label: "Test"
+          value: false
 
 
 include: [".htaccess"]
