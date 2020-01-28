@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Kiwoong Yeom
-tags: [Kiwoong, Yeom, Newhiwoong]
+title: Kwan Hyuck Im
+tags: [KwanHyck, Im, Rapid]
 imagefeature: fourseasons.jpg
 chart: true
 ---
@@ -32,13 +32,14 @@ This is my personal blog. It currently has {{ site.posts | size }} posts in {{ s
 -->
 
 <h1 align="center">
-<a href="https://docs.google.com/document/d/11DnFBrE_r5tCZuRxd2VIXdHpr0vsuCGY4hm9i-_SjJ4/edit?usp=sharing"> Kiwoong_Resume </a>  
+<a href="#a"> Kwanhyuck_Resume </a>  
 </h1>
 
 <figure>
-  <img src="{{ site.url }}/images/kiwoong.jpg" alt="Kiwoong Yeom">
-  <figcaption>Kiwoong Yeom</figcaption>
+  <img src="{{ site.url }}/images/kwan.jpg" alt="Kwan Hyuck">
+  <figcaption>Kwan Hyuck Im</figcaption>
 </figure>
+<!--
 
 ## [INTRODUCTION]()
 
@@ -124,8 +125,9 @@ Pandas, NumPy, scikit-learn, KoNLPy, Spark, [PyTorch](https://github.com/newhiwo
 
 ### AI / ML
 오일석의 '[패턴인식](http://www.yes24.com/24/goods/3315437?scode=032&OzSrank=1)', 마이클 네그네빗스키의 ‘[인공지능 개론](http://www.yes24.com/24/Goods/9386454?Acode=101)’ 독학으로 전통적인 ML 분야 학습, Vision + NLP + Sequence Models - [Coursera 강의](https://www.coursera.org/learn/nlp-sequence-models) 수료 및 각종 프로젝트 진행, [강화학습](https://event-us.kr/modu/event/2016) + [Deep Generative](https://event-us.kr/modu/event/4648) 스터디를 통하여 학습 및 실습
+-->
 
 
 <h2>Connect</h2>
-✉️ [newhiwoong@gmail.com]()  
-🌐 [https://github.com/newhiwoong](https://github.com/newhiwoong)
+✉️ [dla3257@gmail.com]()  
+🌐 [https://github.com/dla3257](https://github.com/dla3257)
