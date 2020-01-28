@@ -1,6 +1,7 @@
 ---
 
 layout: page
+permalink: /test/index.html
 title: "Restful API"
 description: "API TEST"
 
