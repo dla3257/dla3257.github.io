@@ -1,11 +1,11 @@
 ---
-
 layout: page
 permalink: /test/index.html
-title: "Restful API"
-description: "API TEST"
-
----  
+title: Kwan Hyuck Im
+tags: [KwanHyck, Im, Rapid]
+imagefeature: fourseasons.jpg
+chart: true
+---
 
 Add Page Test Page 
 
