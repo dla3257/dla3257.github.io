@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /test/index.html
+permalink: /_site/index.html
 title: Kwan Hyuck Im
 tags: [KwanHyck, Im, Rapid]
 imagefeature: fourseasons.jpg

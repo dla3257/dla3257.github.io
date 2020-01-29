@@ -54,6 +54,8 @@ links:
     url: /about
   - title: Test
     url: /test
+  - title: Test2
+    url: /test/test.html
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Dhaka
