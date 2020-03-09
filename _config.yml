@@ -46,11 +46,11 @@ links:
     icon: home
   - title: Project
     url: /featured
-  - title: Tags_1
+  - title: Tags
     url: /tags
-  - title: Categories_2
+  - title: Categories
     url: /categories
-  - title: About_3
+  - title: About
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
